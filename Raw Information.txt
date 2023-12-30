@@ -13,5 +13,7 @@ git remote -v           -      That will make your Git list all existing remotes
 
 git remote remove origin        -          Remove the Existing Remote
 
+git log		-		to see a log of commits
 
+git checkout -b add_description		-		Let's create a branch named add_description and checkout into it
 
