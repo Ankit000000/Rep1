@@ -1,5 +1,17 @@
 Github repo for downloading code examples	-	https://github.com/PacktPublishing/GitHub-Essentials-Second-Edition
 
 
-1.     ls -al ~/.ssh	-	Enter this to see if existing SSH keys are present
-       clip < ~/.ssh/id_rsa.pub	-	Copies the contents of the id_rsa.pub file to your clipboard
+ ls -al ~/.ssh 	-	Enter this to see if existing SSH keys are present
+
+ clip < ~/.ssh/id_rsa.pub	    -	      Copies the contents of the id_rsa.pub file to your clipboard
+
+git branch       or       git branch -a         -        to see the branches you’ve created for your project.
+
+ git branch -d test1      -         to delete local branch named test1
+
+git remote -v           -      That will make your Git list all existing remotes for the current repository
+
+git remote remove origin        -          Remove the Existing Remote
+
+
+
